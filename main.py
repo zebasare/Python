@@ -40,8 +40,8 @@ class Automotora:
 pocho=Auto("Volkswagen","Combi","Verde")
 oso=Auto("Renault","Bingo","Rojo")
 pantera=Auto("Kia","Besta","Blanca")
-
-daniel=Automotora([Auto("VWK","Escarabajo","Lila"),Auto("Suzuki","Alto","Amarillo"),pocho,oso,pantera])
+roberto=Auto("Fiat","Uno","Rojo")
+daniel=Automotora([Auto("VWK","Escarabajo","Lila"),Auto("Suzuki","Alto","Amarillo"),pocho,oso,pantera,roberto])
 
 #daniel.borrar_autos(pocho)
 
